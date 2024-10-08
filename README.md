@@ -21,6 +21,6 @@
 
 <h2>Imagem do projeto no console da IDE Intellij:</h2>
 
-![Tela do projeto](assets/Projeto-no-console.PNG)
+![Tela do projeto](assets/Imagem-do-projeto-no-console.PNG)
 
 <h5>O projeto foi concluido com os conhecimentos adquirido pelo programa ONE, um programa da Oracle em parceria com a Alura.</h5>
